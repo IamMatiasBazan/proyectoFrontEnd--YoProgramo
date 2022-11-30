@@ -8,6 +8,12 @@ nav ul {
     list-style: none;
 }
 
+#portafolio{
+    position: relative;
+    right: 70%;
+    height: 7px;
+}
+
 nav ul li {
     display: inline-block;
     position: relative;
