@@ -20,6 +20,7 @@ nav ul {
 }
 
 nav ul li {
+    text-decoration: none;
     display: inline-block;
     position: relative;
     left: 70%;
@@ -38,7 +39,15 @@ img {
 #titulo {
     font-family: 'Roboto', sans-serif;
     position: absolute;
-    top: 60%;
-    left: 37.5%;
+    top: 57%;
+    left: 34.5%;
     color: #fff;
+}
+
+/* PROYECTOS */
+.proyecto {
+    font-family: 'Coiny', cursive;
+    position: absolute;
+    top: 73%;
+    left: 42%;
 }
