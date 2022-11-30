@@ -36,8 +36,9 @@ img {
 }
 
 #titulo {
+    font-family: 'Roboto', sans-serif;
     position: absolute;
-    top: 53%;
+    top: 60%;
     left: 37.5%;
     color: #fff;
 }
