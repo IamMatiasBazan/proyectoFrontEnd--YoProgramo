@@ -24,3 +24,16 @@ nav ul li {
     color: #fff;
     font-family: 'Roboto', sans-serif;
 }
+
+img {
+    position: relative;
+    top: 20px;
+    left: 40%;
+}
+
+#titulo {
+    position: absolute;
+    top: 53%;
+    left: 37.5%;
+    color: #fff;
+}
